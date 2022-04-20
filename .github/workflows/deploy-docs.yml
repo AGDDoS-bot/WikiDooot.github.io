@@ -1,11 +1,10 @@
-
-name: 部署文档
+name: 部署
 
 on:
   push:
     branches:
       # 确保这是你正在使用的分支名称
-      - main
+      - master
 
 jobs:
   deploy-gh-pages:
@@ -16,7 +15,7 @@ jobs:
         with:
           fetch-depth: 0
           # 如果你文档需要 Git 子模块，取消注释下一行
-          # submodules: true
+          submodules: true
 
       - uses: actions/cache@v3
         id: node-modules
@@ -30,12 +29,12 @@ jobs:
         if: steps.node-modules.outputs.cache-hit != 'true'
         run: npm install
 
-      - name: 构建文档
+      - name: 构建
         env:
           NODE_OPTIONS: --max_old_space_size=4096
         run: npm run docs:build
 
-      - name: 部署文档
+      - name: 部署
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           # 这是文档部署到的分支名称
