@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           # 如果你文档需要 Git 子模块，取消注释下一行
           submodules: true
 
@@ -32,7 +32,7 @@ jobs:
       - name: 构建
         env:
           NODE_OPTIONS: --max_old_space_size=4096
-        run: npm run docs:build
+        run: npm run build:vite
 
       - name: 部署
         uses: JamesIves/github-pages-deploy-action@v4
