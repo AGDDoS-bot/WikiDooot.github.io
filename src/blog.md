@@ -6,7 +6,7 @@ title: WikiDooot官方博客
 heroImage: /logo.svg
 heroText: WikiDooot
 heroFullScreen: true
-tagline: WikiDooot，中国最奇怪的WIKI。
+tagline: WikiDooot，中国最奇怪的WIKI
 projects:
   - icon: project
     name: 项目名称
@@ -33,6 +33,4 @@ projects:
     desc: 伙伴详细介绍
     link: https://你的伙伴链接
 
-
-footer: 自定义你的页脚文字
 ---

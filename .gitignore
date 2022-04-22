@@ -2,8 +2,10 @@ node_modules/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
-cpolar/
+cpolar
+start.bat
 *.bat
 *.exe
 *.tmp
 tmp*
+.vscode

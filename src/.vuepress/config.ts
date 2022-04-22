@@ -3,8 +3,8 @@ import themeConfig from "./themeConfig";
 
 export default defineHopeConfig({
   lang: "zh-CN",
-  title: "WikiDooot :: 中国最大的奇怪",
-  description: "WikiDooot，是中国最奇怪的WIKI。WIKI由WikiDooot委员会负责营运",
+  title: "WikiDooot :: 中国最奇怪的WIKI",
+  description: "WikiDooot，是中国最奇怪的WIKI",
 
   base: "/",
 

@@ -6,11 +6,11 @@ heroImage: /logo.svg
 heroText: WikiDooot
 tagline: WikiDooot，中国最奇怪的WIKI
 actions:
-  - text: WIKI索引 💡
+  - text: WIKI索引 🏠
     link: /wiki/
 
-  - text: 博客 🏠
-    link: /blog
+  - text: 捐赠 🧧
+    link: https://afdian.net/@xiaozhu2021
     type: secondary
 
 features:
@@ -28,10 +28,10 @@ features:
     details: 订阅本站的RSS
     link: /feed.xml
 
-  - title: 没有您说想要的东西？
+  - title: 没有您想要的东西？
     icon: more
     details: 创建新WIKI
     link: https://vuepress-theme-hope.github.io/v2/zh/guide/feature/
 copyright: false
-footer: MIT Licensed | Copyright © 2019-present WikiDooot
+footer: Copyright © 2022 WikiDooot
 ---

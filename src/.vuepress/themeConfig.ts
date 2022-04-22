@@ -7,16 +7,16 @@ export default defineThemeConfig({
 
   author: {
     name: "HackPig520",
-    url: "https://example.com",
+    url: "https://xiaozhu2007.gitlab.io/",
   },
 
   iconPrefix: "iconfont icon-",
 
   logo: "/logo.svg",
 
-  repo: "1/1",
+  repo: "WikiDooot/WikiDooot",
 
-  docsDir: "demo/src",
+  docsDir: "master/src",
 
   // navbar
   navbar: navbar,
@@ -24,15 +24,15 @@ export default defineThemeConfig({
   // sidebar
   sidebar: sidebar,
 
-  footer: "默认页脚",
+  footer: "Copyright &copy; 2022 WikiDooot",
 
   displayFooter: true,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
+    /*
     description: "一个开发者",
-    intro: "/intro.html",
     medias: {
       Dingding: "https://example.com",
       Email: "https://example.com",
@@ -46,7 +46,9 @@ export default defineThemeConfig({
       Wechat: "https://example.com",
       Weibo: "https://example.com",
       Zhihu: "https://example.com",
+
     },
+    */
   },
 
   encrypt: {
@@ -72,18 +74,6 @@ export default defineThemeConfig({
       repoId: "MDEwOlJlcG9zaXRvcnkzNDE1MDc4ODA=",
       category: "Announcements",
       categoryId: "DIC_kwDOFFr_KM4COei6",
-
-      /**
-       * Using twikoo
-       */
-      // type: "twikoo",
-      // envId: "https://twikoo.ccknbc.vercel.app",
-
-      /**
-       * Using Waline
-       */
-      // type: "waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
     },
 
     mdEnhance: {

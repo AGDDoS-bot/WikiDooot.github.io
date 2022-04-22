@@ -2,7 +2,7 @@
 # 这是侧边栏索引
 index: 1
 # 这是页面的图标
-icon: page
+# icon: page
 # 这是文章的标题
 title: 页面示例
 # 设置作者
