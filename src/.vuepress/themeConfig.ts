@@ -16,7 +16,9 @@ export default defineThemeConfig({
 
   repo: "WikiDooot/WikiDooot",
 
-  docsDir: "master/src",
+  docsBranch: "master",
+
+  docsDir: "src",
 
   // navbar
   navbar: navbar,
@@ -52,6 +54,7 @@ export default defineThemeConfig({
   },
 
   encrypt: {
+    // admin: ["123456"],
     config: {
       "/guide/encrypt.html": ["1234"],
     },
@@ -75,7 +78,11 @@ export default defineThemeConfig({
       category: "Announcements",
       categoryId: "DIC_kwDOFFr_KM4COei6",
     },
-
+    /*
+    reading-time:{
+      wordPerMinute:200
+    },
+*/
     mdEnhance: {
       enableAll: true,
       presentation: {

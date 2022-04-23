@@ -23,9 +23,14 @@ export default defineNavbarConfig([
             link: "article/article5",
           },
           {
+            text: "创建新Wiki",
+            icon: "edit",
+            link: "/posts/article/CreateNewWiki",
+          },
+          {
             text: "加入QQ群",
             icon: "qq",
-            link: "article/article6",
+            link: "https://qm.qq.com/cgi-bin/qm/qr?k=zPTAxGT7nWv2RUlTgdr23taO---V-GBC&jump_from=webapi",
           },
         ],
       },

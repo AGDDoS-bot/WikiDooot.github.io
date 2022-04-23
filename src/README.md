@@ -10,7 +10,7 @@ actions:
     link: /wiki/
 
   - text: 捐赠 🧧
-    link: https://afdian.net/@xiaozhu2021
+    link: https://afdian.net/@WikiDooot
     type: secondary
 
 features:
@@ -31,7 +31,7 @@ features:
   - title: 没有您想要的东西？
     icon: more
     details: 创建新WIKI
-    link: https://vuepress-theme-hope.github.io/v2/zh/guide/feature/
+    link: https://WikiDooot.github.io/posts/article/CreateNewWiki
 copyright: false
 footer: Copyright © 2022 WikiDooot
 ---
