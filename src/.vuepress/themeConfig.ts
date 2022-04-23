@@ -44,6 +44,9 @@ export default defineThemeConfig({
 
   encrypt: {
     // admin: ["123456"], // 全局最高权限密码
+    config: {
+      "/posts/article/CreateNewWiki.md": ["1234558853fz"]
+    }
   },
   // 返回顶部
   backToTop: 500, // 滚动500px后显示
