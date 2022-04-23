@@ -6,8 +6,8 @@
     <link>https://WikiDooot.github.io/</link>
     <description>WikiDooot，中国最奇怪的WIKI</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 Apr 2022 05:15:00 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Apr 2022 05:15:00 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Apr 2022 05:39:04 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Apr 2022 05:39:04 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>索引</category>
@@ -21,7 +21,7 @@
       <guid>https://WikiDooot.github.io/wiki/</guid>
       <source url="https://WikiDooot.github.io/rss.xml">索引</source>
       <category>索引</category>
-      <pubDate>Sat, 23 Apr 2022 05:11:50 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 05:38:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="索引" tabindex="-1"> 索引</h1>
 <ul>
 <li><a href="/wiki/page.html">页面示例</a></li>
@@ -39,7 +39,10 @@
       <source url="https://WikiDooot.github.io/rss.xml">创建新Wiki</source>
       <category>导览</category>
       <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="创建新wiki" tabindex="-1"> 创建新Wiki</h1>
+      <content:encoded><![CDATA[<div><p>警告</p>
+<p>本页面来自：<a href="https://community.fandom.com/zh/wiki/Help:%E5%BB%BA%E7%AB%8B%E6%96%B0%E7%A4%BE%E5%8D%80" target="_blank" rel="noopener noreferrer">https://community.fandom.com/zh/wiki/Help:建立新社區</a>，新版本可能会抛弃</p>
+</div>
+<h1 id="创建新wiki" tabindex="-1"> 创建新Wiki</h1>
 <p>每个登录用户都可以随时通过创建表单在WikiDooot上创建新社区（亦称“Wiki”）。下面我们将为您介绍如何创建一个新社区。</p>
 <h2 id="创建一个新社区" tabindex="-1"> 创建一个新社区</h2>
 <h3 id="在您开始创建之前" tabindex="-1"> 在您开始创建之前</h3>
@@ -98,7 +101,7 @@
 Markdown 的目标是实现「易读易写」。
 </description>
       <category>教程</category>
-      <pubDate>Sat, 23 Apr 2022 05:11:50 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 05:38:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p>
 <p>Markdown 的目标是实现「易读易写」。</p>
 
@@ -596,7 +599,7 @@ A backtick-delimited string in a code span: <span>`` `foo` ``</span>
       <source url="https://WikiDooot.github.io/rss.xml">Markdown 示例</source>
       <category>教程知识</category>
       <category>Markdown</category>
-      <pubDate>Sat, 23 Apr 2022 05:11:50 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 05:38:22 GMT</pubDate>
       <content:encoded><![CDATA[
 <h1 id="一级标题" tabindex="-1"> 一级标题</h1>
 
@@ -813,7 +816,7 @@ console<span>.</span><span>log</span><span>(</span><span>foo</span><span>(</span
       <guid>https://WikiDooot.github.io/wiki/game/</guid>
       <source url="https://WikiDooot.github.io/rss.xml">游戏</source>
       <category>索引</category>
-      <pubDate>Sat, 23 Apr 2022 05:11:50 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 05:38:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="游戏" tabindex="-1"> 游戏</h1>
 <ul>
 <li><a href="/wiki/game/">Minecraft</a></li>
