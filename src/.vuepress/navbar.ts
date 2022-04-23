@@ -18,14 +18,14 @@ export default defineNavbarConfig([
         icon: "edit",
         children: [
           {
-            text: "登录",
+            text: "查看Github仓库",
             icon: "edit",
-            link: "article/article5",
+            link: "https://github.com/WikiDooot/WikiDooot.github.io",
           },
           {
             text: "创建新Wiki",
             icon: "edit",
-            link: "/posts/article/CreateNewWiki",
+            link: "posts/article/CreateNewWiki",
           },
           {
             text: "加入QQ群",

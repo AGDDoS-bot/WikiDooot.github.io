@@ -6,7 +6,7 @@ export default defineThemeConfig({
   hostname: "https://WikiDooot.github.io/",
 
   author: {
-    name: "HackPig520",
+    name: "WikiDooot",
     url: "https://xiaozhu2007.gitlab.io/",
   },
 
@@ -14,16 +14,16 @@ export default defineThemeConfig({
 
   logo: "/logo.svg",
 
-  repo: "WikiDooot/WikiDooot",
+  repo: "WikiDooot/WikiDooot.github.io",
 
   docsBranch: "master",
 
   docsDir: "src",
 
-  // navbar
+  // Navbar
   navbar: navbar,
 
-  // sidebar
+  // Sidebar
   sidebar: sidebar,
 
   footer: "Copyright &copy; 2022 WikiDooot",
