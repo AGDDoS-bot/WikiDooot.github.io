@@ -45,7 +45,7 @@ export default defineThemeConfig({
   encrypt: {
     // admin: ["123456"], // 全局最高权限密码
     config: {
-      "/posts/article/CreateNewWiki.md": ["1234558853fz"]
+      "/posts/article/CreateNewWiki.md": ["12345nhuvfg58853fz"]
     }
   },
   // 返回顶部
