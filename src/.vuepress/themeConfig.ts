@@ -3,7 +3,7 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default defineThemeConfig({
-  hostname: "https://",
+  hostname: "https://WikiDooot.github.io/",
 
   author: {
     name: "HackPig520",
