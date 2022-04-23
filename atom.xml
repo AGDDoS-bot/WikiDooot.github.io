@@ -3,7 +3,7 @@
   <id>https://WikiDooot.github.io/</id>
   <title>WikiDooot :: 中国最奇怪的WIKI</title>
   <subtitle>WikiDooot，中国最奇怪的WIKI</subtitle>
-  <updated>2022-04-23T04:05:15.675Z</updated>
+  <updated>2022-04-23T05:15:00.646Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://WikiDooot.github.io/atom.xml"/>
   <link rel="alternate" href="https://WikiDooot.github.io/"/>
@@ -16,7 +16,7 @@
     <title type="html">索引</title>
     <id>https://WikiDooot.github.io/wiki/</id>
     <link href="https://WikiDooot.github.io/wiki/"/>
-    <updated>2022-04-23T04:04:34.000Z</updated>
+    <updated>2022-04-23T05:11:50.000Z</updated>
     <content type="html"><![CDATA[<h1 id="索引" tabindex="-1"> 索引</h1>
 <ul>
 <li><a href="/wiki/page.html">页面示例</a></li>
@@ -27,13 +27,13 @@
 </ul>
 ]]></content>
     <category term="索引"/>
-    <published>2022-04-23T04:04:34.000Z</published>
+    <published>2022-04-23T05:11:50.000Z</published>
   </entry>
   <entry>
     <title type="html">创建新Wiki</title>
     <id>https://WikiDooot.github.io/posts/article/CreateNewWiki.html</id>
     <link href="https://WikiDooot.github.io/posts/article/CreateNewWiki.html"/>
-    <updated>2022-04-23T04:04:34.000Z</updated>
+    <updated>2022-04-23T05:11:50.000Z</updated>
     <content type="html"><![CDATA[<h1 id="创建新wiki" tabindex="-1"> 创建新Wiki</h1>
 <p>每个登录用户都可以随时通过创建表单在WikiDooot上创建新社区（亦称“Wiki”）。下面我们将为您介绍如何创建一个新社区。</p>
 <h2 id="创建一个新社区" tabindex="-1"> 创建一个新社区</h2>
@@ -90,7 +90,7 @@
     <title type="html">Markdown 介绍</title>
     <id>https://WikiDooot.github.io/posts/article/MarkDown.html</id>
     <link href="https://WikiDooot.github.io/posts/article/MarkDown.html"/>
-    <updated>2022-04-23T04:04:34.000Z</updated>
+    <updated>2022-04-23T05:11:50.000Z</updated>
     <summary type="html"><![CDATA[<p>Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p>
 <p>Markdown 的目标是实现「易读易写」。</p>
 ]]></summary>
@@ -583,13 +583,13 @@ A backtick-delimited string in a code span: <span>`` `foo` ``</span>
 </ul>
 ]]></content>
     <category term="教程"/>
-    <published>2022-04-23T04:04:34.000Z</published>
+    <published>2022-04-23T05:11:50.000Z</published>
   </entry>
   <entry>
     <title type="html">Markdown 示例</title>
     <id>https://WikiDooot.github.io/posts/article/MarkDown_demo.html</id>
     <link href="https://WikiDooot.github.io/posts/article/MarkDown_demo.html"/>
-    <updated>2022-04-23T04:04:34.000Z</updated>
+    <updated>2022-04-23T05:11:50.000Z</updated>
     <content type="html"><![CDATA[
 <h1 id="一级标题" tabindex="-1"> 一级标题</h1>
 
@@ -800,19 +800,19 @@ console<span>.</span><span>log</span><span>(</span><span>foo</span><span>(</span
 </code></pre><div aria-hidden="true"><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div>]]></content>
     <category term="教程知识"/>
     <category term="Markdown"/>
-    <published>2022-04-23T04:04:34.000Z</published>
+    <published>2022-04-23T05:11:50.000Z</published>
   </entry>
   <entry>
     <title type="html">游戏</title>
     <id>https://WikiDooot.github.io/wiki/game/</id>
     <link href="https://WikiDooot.github.io/wiki/game/"/>
-    <updated>2022-04-23T04:04:34.000Z</updated>
+    <updated>2022-04-23T05:11:50.000Z</updated>
     <content type="html"><![CDATA[<h1 id="游戏" tabindex="-1"> 游戏</h1>
 <ul>
 <li><a href="/wiki/game/">Minecraft</a></li>
 </ul>
 ]]></content>
     <category term="索引"/>
-    <published>2022-04-23T04:04:34.000Z</published>
+    <published>2022-04-23T05:11:50.000Z</published>
   </entry>
 </feed>

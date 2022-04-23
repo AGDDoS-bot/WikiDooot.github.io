@@ -6,8 +6,8 @@
     <link>https://WikiDooot.github.io/</link>
     <description>WikiDooot，中国最奇怪的WIKI</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 Apr 2022 04:05:15 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Apr 2022 04:05:15 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Apr 2022 05:15:00 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Apr 2022 05:15:00 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>索引</category>
@@ -21,7 +21,7 @@
       <guid>https://WikiDooot.github.io/wiki/</guid>
       <source url="https://WikiDooot.github.io/rss.xml">索引</source>
       <category>索引</category>
-      <pubDate>Sat, 23 Apr 2022 04:04:34 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 05:11:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="索引" tabindex="-1"> 索引</h1>
 <ul>
 <li><a href="/wiki/page.html">页面示例</a></li>
@@ -98,7 +98,7 @@
 Markdown 的目标是实现「易读易写」。
 </description>
       <category>教程</category>
-      <pubDate>Sat, 23 Apr 2022 04:04:34 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 05:11:50 GMT</pubDate>
       <content:encoded><![CDATA[<p>Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p>
 <p>Markdown 的目标是实现「易读易写」。</p>
 
@@ -596,7 +596,7 @@ A backtick-delimited string in a code span: <span>`` `foo` ``</span>
       <source url="https://WikiDooot.github.io/rss.xml">Markdown 示例</source>
       <category>教程知识</category>
       <category>Markdown</category>
-      <pubDate>Sat, 23 Apr 2022 04:04:34 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 05:11:50 GMT</pubDate>
       <content:encoded><![CDATA[
 <h1 id="一级标题" tabindex="-1"> 一级标题</h1>
 
@@ -813,7 +813,7 @@ console<span>.</span><span>log</span><span>(</span><span>foo</span><span>(</span
       <guid>https://WikiDooot.github.io/wiki/game/</guid>
       <source url="https://WikiDooot.github.io/rss.xml">游戏</source>
       <category>索引</category>
-      <pubDate>Sat, 23 Apr 2022 04:04:34 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 05:11:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="游戏" tabindex="-1"> 游戏</h1>
 <ul>
 <li><a href="/wiki/game/">Minecraft</a></li>
