@@ -7,18 +7,22 @@ export default defineThemeConfig({
 
   author: {
     name: "WikiDooot",
-    url: "https://xiaozhu2007.gitlab.io/",
+    url: "https://WikiDooot.github.io/",
   },
 
   iconPrefix: "iconfont icon-",
 
-  logo: "/logo.svg",
+  logo: "/logo.png",
 
   repo: "WikiDooot/WikiDooot.github.io",
 
   docsBranch: "master",
 
   docsDir: "src",
+
+  editLink: true,
+
+  repoDisplay: false,
 
   // Navbar
   navbar: navbar,
@@ -28,30 +32,9 @@ export default defineThemeConfig({
 
   footer: "Copyright &copy; 2022 WikiDooot",
 
-  displayFooter: true,
+  // displayFooter: true,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
-
-  blog: {
-    /*
-    description: "一个开发者",
-    medias: {
-      Dingding: "https://example.com",
-      Email: "https://example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      Gitlab: "https://example.com",
-      Gmail: "https://example.com",
-      QQ: "https://example.com",
-      Qzone: "https://example.com",
-      Rss: "https://example.com",
-      Wechat: "https://example.com",
-      Weibo: "https://example.com",
-      Zhihu: "https://example.com",
-
-    },
-    */
-  },
 
   encrypt: {
     // admin: ["123456"],
@@ -59,35 +42,50 @@ export default defineThemeConfig({
       "/guide/encrypt.html": ["1234"],
     },
   },
+// 返回顶部
+  backToTop: 500,
+// 主题颜色-自定义
+  themeColor: {
+    blue: "#2196f3",
+    green: "#3eaf7c",
+    orange: "#fb9b5f",
+  },
 
   plugins: {
-    blog: {
-      autoExcerpt: true,
-    },
-
-    // 如果你不需要评论，可以直接删除 comment 配置，
-    // 以下配置仅供体验，如果你需要评论，请自行配置并使用自己的环境，详见文档。
-    // 为了避免打扰主题开发者以及消耗他的资源，请不要在你的正式环境中直接使用下列配置!!!!!
     comment: {
       /**
        * Using giscus
        */
       type: "giscus",
-      repo: "xiaozhu2007/xiaozhu2007",
-      repoId: "MDEwOlJlcG9zaXRvcnkzNDE1MDc4ODA=",
+      repo: "WikiDooot/WikiDooot.github.io",
+      repoId: "R_kgDOHNOnqA",
       category: "Announcements",
-      categoryId: "DIC_kwDOFFr_KM4COei6",
+      categoryId: "DIC_kwDOHNOnqM4COu9r",
     },
-    /*
-    reading-time:{
-      wordPerMinute:200
+
+    feed: {
+      atom: true,
+      json: true,
+      rss: true,
     },
-*/
+
     mdEnhance: {
-      enableAll: true,
+      // enableAll: true,
+      // 启用下角标功能
+      sub: true,
+      // 启用上角标
+      sup: true,
+      codegroup: true,
+      align: true,
+      // 代码演示
+      demo: true,
+      tasklist: true,
+      mark: true,
+      footnote: true,
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
     },
+    blog: false,
   },
 });

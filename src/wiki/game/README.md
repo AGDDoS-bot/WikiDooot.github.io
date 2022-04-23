@@ -6,4 +6,4 @@ category:
 
 # 游戏
 
-- [Minecraft](/game/mc/)
+- [Minecraft](/wiki/game/)

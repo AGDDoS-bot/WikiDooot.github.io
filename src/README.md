@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 主页
-heroImage: /logo.svg
+heroImage: /logo.png
 heroText: WikiDooot
 tagline: WikiDooot，中国最奇怪的WIKI
 actions:
@@ -28,8 +28,13 @@ features:
     details: 订阅本站的RSS
     link: /feed.xml
 
+  - title: 学习MarkDown
+    icon: rss
+    details: MarkDown是什么？为什么这么流行？
+    link: /posts/article/MarkDown
+
   - title: 没有您想要的东西？
-    icon: more
+    icon: create
     details: 创建新WIKI
     link: https://WikiDooot.github.io/posts/article/CreateNewWiki
 copyright: false
