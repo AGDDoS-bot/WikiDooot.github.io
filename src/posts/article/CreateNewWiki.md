@@ -5,6 +5,12 @@ category:
   - 导览
 ---
 
+::: danger
+
+本页面来自：<https://community.fandom.com/zh/wiki/Help:%E5%BB%BA%E7%AB%8B%E6%96%B0%E7%A4%BE%E5%8D%80>，新版本可能会抛弃
+
+:::
+
 # 创建新Wiki
 每个登录用户都可以随时通过创建表单在WikiDooot上创建新社区（亦称“Wiki”）。下面我们将为您介绍如何创建一个新社区。
 
