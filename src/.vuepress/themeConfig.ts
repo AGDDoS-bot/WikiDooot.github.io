@@ -20,6 +20,8 @@ export default defineThemeConfig({
 
   docsDir: "src",
 
+  contributors: false,
+
   editLink: true,
 
   repoDisplay: false,
@@ -29,6 +31,7 @@ export default defineThemeConfig({
 
   // Sidebar
   sidebar: sidebar,
+  headerDepth: 3,
 
   footer: "Copyright &copy; 2022 WikiDooot",
 
@@ -36,18 +39,17 @@ export default defineThemeConfig({
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
+  // 在桌面模式下右侧展示标题列表
+  toc: true,
+
   encrypt: {
-    // admin: ["123456"],
-    config: {
-      "/guide/encrypt.html": ["1234"],
-    },
+    // admin: ["123456"], // 全局最高权限密码
   },
-// 返回顶部
-  backToTop: 500,
-// 主题颜色-自定义
+  // 返回顶部
+  backToTop: 500, // 滚动500px后显示
+  // 主题颜色-自定义
   themeColor: {
     blue: "#2196f3",
-    green: "#3eaf7c",
     orange: "#fb9b5f",
   },
 
